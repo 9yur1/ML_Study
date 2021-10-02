@@ -1,1 +1,4 @@
-# ML_Study_CNN
+# ML_Study
+DNN
+CNN
+RNN
