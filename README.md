@@ -3,4 +3,4 @@ DNN
 CNN
 RNN
 
-Pytorc
+Pytorch
